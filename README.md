@@ -4,7 +4,7 @@ Perkenalkan nama saya **Putri Indriani**.<br>
  
 Saya seorang **Mahasiswa** di [IST AKPRIND Yogyakarta](https://www.akprind.ac.id/).<br>
  
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Instagram](https://www.instagram.com/akun-ig/)ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Instagram](https://www.instagram.com/_ptrii08/)ku ya.
  
 ### Github Statistic
 <p align="left">
