@@ -3,7 +3,7 @@
 <h1 align="center">~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~</h1>
 <div align='center'>
 
-![it's me](unicorn.gif)
+![it's me](gif2.gif)
 
 </div>
 <p><strong>"Embrace the coding journey with passion, navigate challenges with patience, test diligently, and deploy confidently."
@@ -26,7 +26,7 @@
 <h2 align="center"> 🦊 ~ Tentang Saya ~ 🦊 </h2>
  <div align="center">
   </div> 
-<img align="right" alt="GIF" height="200px" width="300px" src="gambar3.gif" />
+<img align="right" alt="GIF" height="200px" width="300px" src="gift1.gif" />
  
 <li>
  <b>Nama:</b> Putri Indriani</li>
@@ -34,11 +34,15 @@
 <b>Alamat:</b> Riau
 </li>
 <li>
+<b>Tempat, Tanggal lahir:</b> B.Padang, 23 Agustus 2004
+</li>
+<li>
 <b>Jenis Kelamin:</b> Perempuan
 </li>
 <li>
-<b>Hobby:</b> Memasak, Olahraga
+<b>Status:</b> Mahasiswa
 </li>
+
 <br><br><br>
 </div>
 
