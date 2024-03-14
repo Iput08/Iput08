@@ -1,26 +1,30 @@
 <body>
-<center>
+<div alight = "center">
 <h1 align="center">~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~</h1>
-  
- Halo semua!
+<div align="center" width="50">
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="50%"/><br> 
+<p><strong>"Embrace the coding journey with passion, navigate challenges with patience, test diligently, and deploy confidently."
+</div>
 
-
-### Welcome to my <img src="https://img.icons8.com/color/96/000000/github--v1.png" height="24"/>GitHub Profile
-
-<p align="center">
-  <a href="mailto:putriindriani123321@gmail.com"><img src="https://img.icons8.com/color/96/000000/email.png" height="16"/>Email</a> •
-  <a href="https://www.instagram.com/_ptrii08/"><img src="https://img.icons8.com/color/96/000000/instagram.png" height="16"/>Instagram</a> •
-</p>
-
-Saya seorang **Mahasiswa** di [IST AKPRIND Yogyakarta](https://www.akprind.ac.id/).<br>
- 
-![coba lihat gambar ini](/gambar1.jpeg)
-
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Instagram](https://www.instagram.com/_ptrii08/)ku ya.
-
-<h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
+<h2 align="center"> 🦊 ~ Sosial Media ~ 🦊 </h2>
  <div align="center">
   </div>
+  
+<div align='center'>
+
+![it's me](unicorn.gif)
+
+</div>
+<p align="center"> 
+  <a href="mailto:putriindriani123321@gmail.com"><img src="https://img.icons8.com/color/96/000000/email.png" height="30"/>Email</a> •
+  <a href="https://www.instagram.com/_ptrii08/"><img src="https://img.icons8.com/color/96/000000/instagram.png" height="30"/>Instagram</a> •
+</p>
+
+<h2 align="center"> 🦊 ~ Tentang Saya ~ 🦊 </h2>
+ <div align="center">
+  </div> 
+<img align="right" alt="GIF" height="200px" width="300px" src="gambar3.gif" />
+ 
 <li>
  <b>Nama:</b> Putri Indriani</li>
 <li>
@@ -34,14 +38,16 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Instagram](htt
 </li>
 <br><br><br>
 </div>
-<div>
-### Github Statistic
+
+<h2 align="center"> 🦊 ~ Github Statistic ~ 🦊 </h2>
+ <div align="center">
+  </div> 
 <p align="left">
 <a href="https://github.com/Iput08">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Iput08&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Iput08&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
+</div>
 <h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
 </body>
