@@ -1,8 +1,11 @@
 <body>
 <div alight = "center">
 <h1 align="center">~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~</h1>
-<div align="center" width="50">
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="50%"/><br> 
+<div align='center'>
+
+![it's me](unicorn.gif)
+
+</div>
 <p><strong>"Embrace the coding journey with passion, navigate challenges with patience, test diligently, and deploy confidently."
 </div>
 
