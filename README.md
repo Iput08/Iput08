@@ -56,5 +56,13 @@
 </a>
 </p>
 </div>
-<h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
+<h1 align="right">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h1>
+<div align="left">
+<img src="gif3.gif">
+</div>
+<hr>
+</div>
+</div>
+    </center>
 </body>
+
