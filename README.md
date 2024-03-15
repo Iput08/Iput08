@@ -9,7 +9,7 @@
 <p><strong>"Embrace the coding journey with passion, navigate challenges with patience, test diligently, and deploy confidently."
 </div>
 
-<h2 align="center"> 🦊 ~ Sosial Media ~ 🦊 </h2>
+<h2 align="center"> 🦊 ~ Connect With Me ~ 🦊 </h2>
  <div align="center">
   </div>
   
@@ -23,16 +23,13 @@
   <a href="https://www.instagram.com/_ptrii08/"><img src="https://img.icons8.com/color/96/000000/instagram.png" height="30"/>Instagram</a> •
 </p>
 
-<h2 align="center"> 🦊 ~ Tentang Saya ~ 🦊 </h2>
+<h2 align="center"> 🦊 ~ About Me ~ 🦊 </h2>
  <div align="center">
   </div> 
 <img align="right" alt="GIF" height="200px" width="300px" src="gift1.gif" />
  
 <li>
  <b>Nama:</b> Putri Indriani</li>
-<li>
-<b>Alamat:</b> Riau
-</li>
 <li>
 <b>Tempat, Tanggal lahir:</b> B.Padang, 23 Agustus 2004
 </li>
@@ -60,6 +57,7 @@
 <div align="left">
 <img src="gif3.gif">
 </div>
+
 <hr>
 </div>
 </div>
