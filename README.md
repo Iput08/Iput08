@@ -42,6 +42,14 @@
 <br><br><br>
 </div>
 
+<h2 align="center"><i> 🦊 ~ My Favorite Music ~ 🦊 </i></h2>
+
+ 
+<p> Maybe you have the same taste in music as me, please visit my playlist! </p>
+<p align="center">
+<a href="https://open.spotify.com/user/31qkarwqou6buxqkxie2ojdlpguu"><img src="https://img.icons8.com/color/96/000000/spotify--v1.png" alt="spotify"/></a>
+</p>
+
 <h2 align="center"><i> 🦊 ~ Github Statistic ~ 🦊 </i></h2>
  <div align="center">
   </div> 
@@ -60,11 +68,6 @@
   <a href="https://github.com/Iput08?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/Iput08?color=green&logo=github">
   </a>
-</p>
-
-<h2 align="center"><i> 🦊 ~ my favorite music ~ 🦊 </i></h2>
-<p align="center">
-<a href="https://open.spotify.com/user/31qkarwqou6buxqkxie2ojdlpguu"><img src="https://img.icons8.com/color/96/000000/spotify--v1.png" alt="spotify"/></a>
 </p>
 
 <h1 align="right">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h1>
