@@ -62,6 +62,11 @@
   </a>
 </p>
 
+<h2 align="center"><i> 🦊 ~ my favorite music ~ 🦊 </i></h2>
+<p align="center">
+<a href="https://open.spotify.com/user/Putri"><img src="https://img.icons8.com/color/96/000000/spotify--v1.png" alt="spotify"/></a>
+</p>
+
 <h1 align="right">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h1>
 <div align="left">
 <img src="gif3.gif">
