@@ -5,11 +5,10 @@
 
 ![it's me](gif2.gif)
 
-</div>
-<p><strong>"Embrace the coding journey with passion, navigate challenges with patience, test diligently, and deploy confidently."
-</div>
+<p align="center"><i>“Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity.”</i></p>
+<p align="center"><i>- Aaron Swartz (2013 ~ 1986) -</i></p>
 
-<h2 align="center"> 🦊 ~ Connect With Me ~ 🦊 </h2>
+<h2 align="center"><i> 🦊 ~ Connect With Me ~ 🦊 </i></h2>
  <div align="center">
   </div>
   
@@ -18,16 +17,20 @@
 ![it's me](unicorn.gif)
 
 </div>
+
 <p align="center"> 
   <a href="mailto:putriindriani123321@gmail.com"><img src="https://img.icons8.com/color/96/000000/email.png" height="30"/>Email</a> •
   <a href="https://www.instagram.com/_ptrii08/"><img src="https://img.icons8.com/color/96/000000/instagram.png" height="30"/>Instagram</a> •
 </p>
 
-<h2 align="center"> 🦊 ~ About Me ~ 🦊 </h2>
- <div align="center">
-  </div> 
-<img align="right" alt="GIF" height="200px" width="300px" src="gift1.gif" />
+<h2 align="center"><i> 🦊 ~ About Me ~ 🦊 </i></h2>
  
+<img align="right" alt="GIF" height="200px" width="300px" src="gift1.gif" />
+
+### Saya merupakan seorang Mahasiswa di IST AKPRIND Yogyakarta
+
+<div align="left">
+<p><i> Berikut adalah biodata singkat saya👌😄 : </i></p> 
 <li>
  <b>Nama:</b> Putri Indriani</li>
 <li>
@@ -36,14 +39,10 @@
 <li>
 <b>Jenis Kelamin:</b> Perempuan
 </li>
-<li>
-<b>Status:</b> Mahasiswa
-</li>
-
 <br><br><br>
 </div>
 
-<h2 align="center"> 🦊 ~ Github Statistic ~ 🦊 </h2>
+<h2 align="center"><i> 🦊 ~ Github Statistic ~ 🦊 </i></h2>
  <div align="center">
   </div> 
 <p align="left">
@@ -53,11 +52,24 @@
 </a>
 </p>
 </div>
+
+<p align="right">
+  <a href="https://github.com/Iput08">
+    <img src="https://komarev.com/ghpvc/?username=Iput08" alt="page views">
+  </a>
+  <a href="https://github.com/Iput08?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Iput08?color=green&logo=github">
+  </a>
+</p>
+
 <h1 align="right">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h1>
 <div align="left">
 <img src="gif3.gif">
 </div>
 
+<div align="center">
+<p> -💖Have a good day!💖-</p>
+</div>
 <hr>
 </div>
 </div>
