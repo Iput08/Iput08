@@ -34,9 +34,6 @@
 <li>
  <b>Nama:</b> Putri Indriani</li>
 <li>
-<b>Tempat, Tanggal lahir:</b> B.Padang, 23 Agustus 2004
-</li>
-<li>
 <b>Jenis Kelamin:</b> Perempuan
 </li>
 <br><br><br>
